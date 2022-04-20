@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end web development
 - 🌱 I’m currently learning html,css, javascript
 - 💞️ I’m looking to develop myself more with regular practice
-- 📫 You can reach me on twitter @chiamakaugwu_ linkedin (Chiamaka M. Ugwu)
+- 📫 You can reach me on twitter [@chiamakaugwu_](https://www.twitter.com/chiamakaugwu_) linkedin (Chiamaka M. Ugwu)
 
 <!---
 chiamaka-ugwu/chiamaka-ugwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
