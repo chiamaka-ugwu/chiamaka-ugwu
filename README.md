@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chiamaka-ugwu
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning html,css, javascript
+- 🌱 I’m currently learning react js
 - 💞️ I’m looking to develop myself more with regular practice
 - 📫 You can reach me on twitter [@chiamakaugwu_](https://www.twitter.com/chiamakaugwu_)
 <!---
